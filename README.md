@@ -218,3 +218,8 @@ Created as a portfolio project to demonstrate:
 - Exception handling and validation
 - API documentation with Swagger
 
+**Rakshitha Bai V**
+
+GitHub: [rakshithav2004](https://github.com/rakshithav2004)
+
+
