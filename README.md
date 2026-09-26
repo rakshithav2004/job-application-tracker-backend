@@ -211,15 +211,27 @@ This project is open source and available under the MIT License.
 ## 👤 Author
 
 Created as a portfolio project to demonstrate:
-- REST API design principles
-- Spring Boot best practices
-- JWT authentication implementation
-- MongoDB integration
-- Exception handling and validation
-- API documentation with Swagger
+
+* REST API design principles
+* Spring Boot best practices
+* JWT authentication implementation
+* MongoDB integration
+* Exception handling and validation
+* API documentation with Swagger
 
 **Rakshitha Bai V**
 
 GitHub: [rakshithav2004](https://github.com/rakshithav2004)
+
+---
+
+## 🙏 Thank You for Visiting!
+
+Thank you for visiting my **Job Application Tracker** project!
+I hope you found it useful and informative.
+
+If you found this project interesting, feel free to **⭐ star the repository** and explore my other projects on GitHub.
+
+**Thanks for stopping by! 🚀**
 
 
